@@ -8,6 +8,6 @@ export default function AddFild() {
     </StyledAddFild>
   )
 }
-const StyledAddFild = styled.div`
+const StyledAddFild= styled.div`
      
 `
